@@ -36,7 +36,9 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Analizando tiempos de vueltas
+","Ajustando configuraciones del coche
+","Viendo la carrera en vivo"];
 
 
 let currentIndex = 0;
